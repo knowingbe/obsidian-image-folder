@@ -1,7 +1,7 @@
 {
 	"id": "loom-view",
 	"name": "Loom View",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"minAppVersion": "1.1.0",
 	"description": "Visualize your history notes in a Geography vs Time grid, inspired by the Loom.",
 	"author": "Antigravity",
